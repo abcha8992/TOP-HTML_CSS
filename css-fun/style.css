@@ -1,0 +1,20 @@
+.box.One{
+    height:100px;
+    width: 500px;
+    background-color: rgb(222, 196, 247);
+    border: 5px solid #3b010d;
+    margin: 0px;
+    padding:5px;
+    box-sizing: border-box;
+    }
+
+.box.Two{
+    height:120px;
+    width: 200px;
+    background-color: rgb(43, 226, 189);
+    border: 5px solid slateblue;
+    margin: 0px;
+    padding:5px;
+    box-sizing: content-box;
+
+    }

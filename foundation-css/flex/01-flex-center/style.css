@@ -1,0 +1,15 @@
+.container{
+    background-color: lightblue;
+    display: flex;
+    height: 500px;
+    width: 600px;
+    border: 2px solid black;
+    justify-content: center;
+}
+.container > .box{
+   background-color: pink;
+   height: 20px;
+   width: auto;
+   align-self: center;
+   border: 1px solid red;
+}

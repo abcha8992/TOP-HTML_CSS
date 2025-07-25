@@ -1,0 +1,31 @@
+.parent{
+    background-color: lightgray;
+    padding: 8px;
+    border: 8px;
+    
+}
+.one,.two,.three{
+    background-color: lightblue;
+    border: 8px solid white;
+    padding: 8px;
+    margin: 8px;
+}
+.one{
+    font-size: 16px;
+    font-weight: bold;
+}
+.two{
+    padding-top: 16px;
+    padding-right: 8px;
+}
+.three{
+    text-align: center;
+    align-items: center;
+}
+.big-button{
+    background-color: white;
+    display: block;
+    border: solid white;
+    padding: 8px 24px;
+    margin : 0 auto;
+}

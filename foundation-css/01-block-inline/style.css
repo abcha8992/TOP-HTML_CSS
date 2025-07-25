@@ -1,0 +1,22 @@
+div{
+
+}
+.one{
+    background-color: pink;
+    padding: 32px;
+    margin: 12px;
+    border: 2px solid blue;
+}
+.two{
+    background-color: aqua;
+    border: 2px solid brown;
+}
+.three{
+    background-color: orange;
+    padding: 32px;
+    border : 2px solid brown;
+    margin-top: 48px;
+    margin-left: auto;
+    width: 33%
+    ;
+}
